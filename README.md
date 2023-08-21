@@ -38,7 +38,7 @@
       src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
       alt="Muhamad Robai" height="30" width="auto" /></a>
       
-  <a href="muhamadrobai99@gmail.com" target="blank"><img align="center"
+  <a href="mailto: muhamadrobai99@gmail.com" target="blank"><img align="center"
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Muhamad Robai" height="30" width="auto" /></a>
 </p>
