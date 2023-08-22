@@ -1,6 +1,7 @@
-# Hello there I am Muhamad Robai👋
-
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+# Hello there I am Muhamad Robai👋
+i'm graduate from computer science from university of singaperbangsa karawang. I'm a passionate learner and willing to learn and work accrost domain technology. I love to learn new technologies and leverage them to solve real-life problems. Apart from that i also love to guide and mentor the newbies. Currently I'm a professional Backend developer and have experience in a fintech company to develop several projects such as e-money, digital banking and insurance technology. If you need more detail about my information this my <a href="">RESUME</a>
 
 ## My tech stack
 
